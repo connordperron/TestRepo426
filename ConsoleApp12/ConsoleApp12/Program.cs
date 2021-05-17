@@ -10,7 +10,7 @@ namespace ConsoleApp12
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Testing for presentation");
+            Console.WriteLine("Test");
 
         }
     }
